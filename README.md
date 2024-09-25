@@ -12,3 +12,5 @@ Table of Contents:
 Description: This project is done on Microsoft Access 2016 (16.0.5317.1000) MSO (16.0.5404.1000) 64-bit.
 
 Note: All the CSV and ACCDB contain dummy data
+
+Copyright © 2024 Shams Ashraf Khan. All rights reserved.
